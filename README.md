@@ -1,4 +1,5 @@
 # Interactive Digital Signage: Free Whitepapers
+Whitepapers are in-depth, authoritative reports that explore a specific topic or problem, offering insights, solutions, or technical explanations. On this page, you will find extensive insights into interactive digital signage solutions, retail technologies, interactive multitouch systems and advanced native kiosk software.
 
 
 ## Shopify POS
