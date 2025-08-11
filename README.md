@@ -9,6 +9,7 @@ This whitepaper outlines how smart in-store analytics help retailers track custo
 - [Warum In-Store Retail Analytics für den Einzelhandel der Game-Changer sind](https://www.eyefactive.com/whitepaper/in-store-retail-analytics-einzelhandel) - German
 
 
+
 ## 5 Reasons to Use Shopify POS on Interactive Touch Screens
 This white paper analyzes how Shopify POS creates a modern shopping experience on interactive self-service kiosk touchscreens—while also providing valuable customer data.
 
