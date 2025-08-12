@@ -11,7 +11,7 @@ This whitepaper outlines how smart in-store analytics help retailers track custo
 
 
 ## 5 Reasons to Use Shopify POS on Interactive Touch Screens
-This white paper analyzes how Shopify POS creates a modern shopping experience on interactive self-service kiosk touchscreens—while also providing valuable customer data.
+This whitepaper analyzes how Shopify POS creates a modern shopping experience on interactive self-service kiosk touchscreens—while also providing valuable customer data.
 
 - [5 Reasons to Use Shopify POS on Interactive Touch Screens](https://www.eyefactive.com/en/whitepaper/shopify-pos-touch-screens) - English
 - [5 Gründe für Shopify POS auf interaktiven Touchscreens](https://www.eyefactive.com/whitepaper/shopify-pos-touchscreens) - German
