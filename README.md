@@ -15,3 +15,19 @@ This whitepaper analyzes how Shopify POS creates a modern shopping experience on
 
 - [5 Reasons to Use Shopify POS on Interactive Touch Screens](https://www.eyefactive.com/en/whitepaper/shopify-pos-touch-screens) - English
 - [5 Gründe für Shopify POS auf interaktiven Touchscreens](https://www.eyefactive.com/whitepaper/shopify-pos-touchscreens) - German
+
+
+
+## What is Interactive Digital Signage?
+This whitepaper analyzes how digital signage transforms marketing with flexible, interactive, and real-time solutions that engage and captivate audiences.
+
+- [What is Interactive Digital Signage?](https://www.eyefactive.com/en/blog/what-is-interactive-digital-signage-whitepaper) - English
+- [Was ist Interactive Digital Signage?](https://www.eyefactive.com/blog/was-ist-interactive-digital-signage-whitepaper) - German
+
+
+
+## Minority Report 15 Years later - Technologies for POS / Retail
+This whitepaper analyzes: how the futuristic thriller Minority Report showcased innovative technologies such as gesture-controlled interfaces, multi-touch screens, and large-scale interactive digital signage, and how these concepts are now applied in real-world marketing and retail.
+
+- [Minority Report 15 Years later - Technologies for POS / Retail](https://www.eyefactive.com/en/whitepaper/whitepaper-minority-report-touchscreen-technologies-pos-retail) - English
+- [Minority Report 15 Jahre später - Technologien für POS / Retail](https://www.eyefactive.com/whitepaper/whitepaper-minority-report-touchscreen-technologien-pos-retail) - German
