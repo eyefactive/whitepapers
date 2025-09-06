@@ -79,3 +79,11 @@ This whitepaper analyses how to create great customer experiences for retail suc
 
 - [Retail Success - How To Create Great Customer Experiences](https://www.eyefactive.com/en/whitepaper/innovative-retail-customer-experiences-2022) - English
 - [Erfolg im Retail: Wie man großartige Kunden-Erlebnisse erschafft](https://www.eyefactive.com/whitepaper/innovative-retail-kunden-erlebnisse-2022) - German
+
+
+
+## 7 Ways that Native Touchscreen Software trumps Common Web Technologies Every Time
+This whitepaper analyses seven ways in which native touchscreen software outperforms common web technologies, explaining why it is a significantly stronger solution than browser-based technologies or apps designed for smartphones and tablets.
+
+- [7 Ways that Native Touchscreen Software trumps Common Web Technologies Every Time](https://www.eyefactive.com/en/whitepaper/7-ways-that-native-touchscreen-software-trumps-common-web-technologies-every-time) - English
+- [7 Gründe, warum native Touchscreen-Software gängige Web-Technologien immer übertrifft](https://www.eyefactive.com/whitepaper/7-gruende-warum-native-touchscreen-software-web-technologien-uebertrifft) - German
