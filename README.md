@@ -47,3 +47,11 @@ This whitepaper analyses how innovative technologies expand the scope of applica
 
 - [4 Digital Signage Trends for 2019](https://www.eyefactive.com/en/whitepaper/4-digital-signage-trends-2019) - English
 - [4 Digital Signage Trends für 2019](https://www.eyefactive.com/whitepaper/4-digital-signage-trends-2019) - German
+
+
+
+## Reviving Retail Following the Corona Crisis
+This whitepaper analyses strategies for reviving retail following the corona crisis, focusing on the Point of Sale (POS) and approaches for recovery after the lockdown.
+
+- [Reviving Retail Following the Corona Crisis](https://www.eyefactive.com/en/whitepaper/reviving-retail-corona-crisis) - English
+- [Die Wiederbelebung des Einzelhandels nach der Corona-Krise](https://www.eyefactive.com/whitepaper/wiederbelebung-einzelhandel-corona-krise) - German
