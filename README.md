@@ -59,7 +59,15 @@ This whitepaper analyses strategies for reviving retail following the corona cri
 
 
 ## The Future of Retail - 9 Key Technologies
-This whitepaper analyses strategies for reviving retail following the corona crisis, focusing on the Point of Sale (POS) and approaches for recovery after the lockdown.
+This whitepaper analyses how interactive retail technology is enriching the in-store customer experience, highlighting 9 key technologies for the point of sale.
 
 - [The Future of Retail - 9 Key Technologies](https://www.eyefactive.com/en/whitepaper/future-of-retail-9-key-technologies) - English
 - [Die Zukunft im Retail - 9 Schlüsseltechnologien](https://www.eyefactive.com/whitepaper/die-zukunft-im-retail-9-technologien) - German
+
+
+
+## Q&A: The World's First App Platform for professional XXL Tochscreen Systems
+This whitepaper analyses how interactive technologies, software solutions, and touchscreen systems can be deployed to digitalize the point of sale, creating meaningful on-site experiences for customers.
+
+- [Q&A: The World's First App Platform for professional XXL Tochscreen Systems](https://www.eyefactive.com/en/whitepaper/qa-the-first-touchscreen-app-platform) - English
+- [Q&A: Die erste App Plattform für professionelle XXL Touchscreen Systeme](https://www.eyefactive.com/whitepaper/qa-die-erste-touchscreen-app-plattform) - German
