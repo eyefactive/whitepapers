@@ -39,3 +39,11 @@ This whitepaper presents some of the most exiting usecases of touchscreen object
 
 - [Top 7 Usecases for touchscreen object recognition](https://www.eyefactive.com/en/whitepaper/top-7-usecases-of-object-recognition) - English
 - [Top 7 Möglichkeiten für Objekterkennung auf Touchscreens](https://www.eyefactive.com/whitepaper/top-7-moeglichkeiten-objekterkennung) - German
+
+
+
+## 4 Digital Signage Trends for 2019
+This whitepaper analyses how innovative technologies expand the scope of application of classic digital signage systems and offer new advantages for use at the point of sale, in museums, hotels, or restaurants.
+
+- [4 Digital Signage Trends for 2019](https://www.eyefactive.com/en/whitepaper/4-digital-signage-trends-2019) - English
+- [4 Digital Signage Trends für 2019](https://www.eyefactive.com/whitepaper/4-digital-signage-trends-2019) - German
