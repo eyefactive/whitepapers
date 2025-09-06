@@ -87,3 +87,19 @@ This whitepaper analyses seven ways in which native touchscreen software outperf
 
 - [7 Ways that Native Touchscreen Software trumps Common Web Technologies Every Time](https://www.eyefactive.com/en/whitepaper/7-ways-that-native-touchscreen-software-trumps-common-web-technologies-every-time) - English
 - [7 Gründe, warum native Touchscreen-Software gängige Web-Technologien immer übertrifft](https://www.eyefactive.com/whitepaper/7-gruende-warum-native-touchscreen-software-web-technologien-uebertrifft) - German
+
+
+
+## 5 Transformative Digital Signage Trends for 2022
+This whitepaper analyses five key digital signage trends for 2022 in a rapidly evolving and dynamic industry where new developments emerge daily.
+
+- [5 Transformative Digital Signage Trends for 2022](https://www.eyefactive.com/en/whitepaper/5-digital-signage-trends-2022) - English
+- [5 transformative Digital Signage Trends für 2022](https://www.eyefactive.com/whitepaper/5-digital-signage-trends-fuer-2022) - German
+
+
+
+## A Brief History of Touchscreen Technology: From the iPhone to Multi-User Videowalls
+In this whitepaper, we highlight the origins of touchscreen technology, from its beginnings to the iPhone to large-scale video walls. We also provide a glimpse into the future of interactive multi-touch and multi-user technologies.
+
+- [A Brief History of Touchscreen Technology: From the iPhone to Multi-User Videowalls](https://www.eyefactive.com/en/whitepaper/history-of-touchscreen-technology) - English
+- [Eine kurze Geschichte der Touchscreen-Technologie: Vom iPhone bis zur Multi-User Videowand](https://www.eyefactive.com/whitepaper/geschichte-der-touchscreen-technologie) - German
