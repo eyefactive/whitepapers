@@ -55,3 +55,11 @@ This whitepaper analyses strategies for reviving retail following the corona cri
 
 - [Reviving Retail Following the Corona Crisis](https://www.eyefactive.com/en/whitepaper/reviving-retail-corona-crisis) - English
 - [Die Wiederbelebung des Einzelhandels nach der Corona-Krise](https://www.eyefactive.com/whitepaper/wiederbelebung-einzelhandel-corona-krise) - German
+
+
+
+## The Future of Retail - 9 Key Technologies
+This whitepaper analyses strategies for reviving retail following the corona crisis, focusing on the Point of Sale (POS) and approaches for recovery after the lockdown.
+
+- [The Future of Retail - 9 Key Technologies](https://www.eyefactive.com/en/whitepaper/future-of-retail-9-key-technologies) - English
+- [Die Zukunft im Retail - 9 Schlüsseltechnologien](https://www.eyefactive.com/whitepaper/die-zukunft-im-retail-9-technologien) - German
