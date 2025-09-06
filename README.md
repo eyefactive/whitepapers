@@ -71,3 +71,11 @@ This whitepaper analyses how interactive technologies, software solutions, and t
 
 - [Q&A: The World's First App Platform for professional XXL Tochscreen Systems](https://www.eyefactive.com/en/whitepaper/qa-the-first-touchscreen-app-platform) - English
 - [Q&A: Die erste App Plattform für professionelle XXL Touchscreen Systeme](https://www.eyefactive.com/whitepaper/qa-die-erste-touchscreen-app-plattform) - German
+
+
+
+## Retail Success - How To Create Great Customer Experiences
+This whitepaper analyses how to create great customer experiences for retail success through innovative technologies and solutions for the point of sale.
+
+- [Retail Success - How To Create Great Customer Experiences](https://www.eyefactive.com/en/whitepaper/innovative-retail-customer-experiences-2022) - English
+- [Erfolg im Retail: Wie man großartige Kunden-Erlebnisse erschafft](https://www.eyefactive.com/whitepaper/innovative-retail-kunden-erlebnisse-2022) - German
