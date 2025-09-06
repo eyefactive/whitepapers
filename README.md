@@ -103,3 +103,22 @@ In this whitepaper, we highlight the origins of touchscreen technology, from its
 
 - [A Brief History of Touchscreen Technology: From the iPhone to Multi-User Videowalls](https://www.eyefactive.com/en/whitepaper/history-of-touchscreen-technology) - English
 - [Eine kurze Geschichte der Touchscreen-Technologie: Vom iPhone bis zur Multi-User Videowand](https://www.eyefactive.com/whitepaper/geschichte-der-touchscreen-technologie) - German
+
+
+
+## 5 Reasons to Use Touch Screen Tables
+This whitepaper analyses the benefits of interactive touchscreen tables for businesses, showing how specialized software and intuitive user interfaces deliver an exceptional and engaging user experience for customers.
+
+- [5 Reasons to Use Touch Screen Tables](https://www.eyefactive.com/en/whitepaper/touch-screen-tables-5-reasons) - English
+- [5 Gründe für den Einsatz von Touchscreen Tischen](https://www.eyefactive.com/whitepaper/touchscreen-tische-5-gruende) - German
+
+
+
+## Virtual Shelves - A Frontier of Innovation in Retail Technologies
+This whitepaper analyses the evolving retail landscape, focusing on how the purpose of physical stores is being redefined to foster stronger customer connections and create seamless omni-channel experiences.
+
+- [Virtual Shelves - A Frontier of Innovation in Retail Technologies](https://www.eyefactive.com/en/whitepaper/virtual-shelves-endless-aisle-retail-technology-innovation) - English
+- [Virtuelle Regale - eine zukunftsweisende Innovation im Einzelhandel](https://www.eyefactive.com/whitepaper/virtuelle-regale-endless-aisle-retail-technologie-innovation) - German
+
+
+
