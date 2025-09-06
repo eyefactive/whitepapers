@@ -31,3 +31,11 @@ This whitepaper analyzes: how the futuristic thriller Minority Report showcased 
 
 - [Minority Report 15 Years later - Technologies for POS / Retail](https://www.eyefactive.com/en/whitepaper/whitepaper-minority-report-touchscreen-technologies-pos-retail) - English
 - [Minority Report 15 Jahre später - Technologien für POS / Retail](https://www.eyefactive.com/whitepaper/whitepaper-minority-report-touchscreen-technologien-pos-retail) - German
+
+
+
+## Top 7 Usecases for touchscreen object recognition
+This whitepaper presents some of the most exiting usecases of touchscreen object recognition for interactive displays, tables and video walls.
+
+- [Top 7 Usecases for touchscreen object recognition](https://www.eyefactive.com/en/whitepaper/top-7-usecases-of-object-recognition) - English
+- [Top 7 Möglichkeiten für Objekterkennung auf Touchscreens](https://www.eyefactive.com/whitepaper/top-7-moeglichkeiten-objekterkennung) - German
